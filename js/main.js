@@ -62,7 +62,7 @@ function draw(){
         flechaD.show()
         playerD.die(flechaE)
         
-        fill(70, 200, 80)
+        fill(70, 200, 60)
         rect(0, 350, width, height )
     }
 }
